@@ -1,9 +1,44 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "posts": [{ "id": 1, "title": "json-server", "author": "typicode" }],
+  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
+  "profile": { "name": "typicode" },
+  "sport": [
+    {
+      "id": 1,
+      "title": "Football",
+      "body": "There are some great matches and good"
+    },
+    {
+      "id": 2,
+      "title": "Volleyball",
+      "body": "There are some great matches"
+    },
+    {
+      "id": 3,
+      "title": "Baseball",
+      "body": "It's a bad hobby"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "url": [
+    {
+      "id": 1,
+      "omschrijving": "Telegraaf",
+      "url": "https://www.telegraaf.nl/"
+    },
+    {
+      "id": 2,
+      "omschrijving": "AD",
+      "url": "https://www.ad.nl/"
+    },
+    {
+      "id": 3,
+      "omschrijving": "Nu.nl",
+      "url": "https://www.nu.nl/"
+    },
+    {
+      "id": 4,
+      "omschrijving": "Geenstijl",
+      "url": "https://www.geenstijl.nl/"
+    }
+  ]
 }

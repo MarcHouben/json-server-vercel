@@ -1,8 +1,16 @@
+# JSON Server Vercel
+
+- https://json-server-vercel-sage.vercel.app/posts
+- https://json-server-vercel-sage.vercel.app/comments
+- https://json-server-vercel-sage.vercel.app/profile
+- https://json-server-vercel-sage.vercel.app/sport
+- https://json-server-vercel-sage.vercel.app/url
+
 ## Deploy JSON Server to Vercel
 
 A template to deploy [JSON Server](https://github.com/typicode/json-server) to [Vercel](https://vercel.com), allow you to run fake REST API online!
 
-Demo from this repository: 
+Demo from this repository:
 
 1. https://json-server-in.vercel.app
 2. https://json-server-in.vercel.app/api/posts
@@ -22,12 +30,8 @@ Demo from this repository:
 
 ```json
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
+  "posts": [{ "id": 1, "title": "json-server", "author": "typicode" }],
+  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
   "profile": { "name": "typicode" }
 }
 ```
