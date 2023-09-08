@@ -5,6 +5,7 @@
 - https://json-server-vercel-sage.vercel.app/profile
 - https://json-server-vercel-sage.vercel.app/sport
 - https://json-server-vercel-sage.vercel.app/url
+- https://json-server-vercel-sage.vercel.app/people
 
 ## Deploy JSON Server to Vercel
 

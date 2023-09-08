@@ -40,5 +40,70 @@
       "omschrijving": "Geenstijl",
       "url": "https://www.geenstijl.nl/"
     }
+  ],
+  "people": [
+    {
+      "id": "1",
+      "firstName": "John",
+      "lastName": "Doe",
+      "geslacht": "M",
+      "leeftijd": 25,
+      "werkgevers": ["SZW", "Atos-Origin", "UPC", "KPN"],
+      "artikel": { "naam": "pen", "prijs": 1.25 }
+    },
+    {
+      "id": "2",
+      "firstName": "Mary",
+      "lastName": "Peterson",
+      "geslacht": "V",
+      "leeftijd": 22,
+      "werkgevers": ["SZW", "Atos-Origin", "UPC", "Delta Loyd"],
+      "artikel": { "naam": "pen", "prijs": 10.75 }
+    },
+    {
+      "id": "3",
+      "firstName": "George",
+      "lastName": "Hansen",
+      "geslacht": "M",
+      "leeftijd": 64,
+      "werkgevers": ["SZW", "Atos-Origin", "UPC", "MUMC"],
+      "artikel": { "naam": "pen", "prijs": 7.1 }
+    },
+    {
+      "id": "4",
+      "firstName": "Marc",
+      "lastName": "Houben",
+      "geslacht": "M",
+      "leeftijd": 52,
+      "werkgevers": ["SZW", "Atos-Origin", "UPC", "AZL"],
+      "artikel": { "naam": "pen", "prijs": 53.44 }
+    },
+    {
+      "id": "5",
+      "firstName": "Marielle",
+      "lastName": "Jansen",
+      "geslacht": "V",
+      "leeftijd": 37,
+      "werkgevers": ["SZW", "Atos-Origin", "UPC", "Talpa"],
+      "artikel": { "naam": "pen", "prijs": 98.62 }
+    },
+    {
+      "id": "6",
+      "firstName": "Harry",
+      "lastName": "Jones",
+      "geslacht": "M",
+      "leeftijd": 83,
+      "werkgevers": ["SZW", "Atos-Origin", "UPC", "Mosa"],
+      "artikel": { "naam": "pen", "prijs": 73.24 }
+    },
+    {
+      "id": "7",
+      "firstName": "Elodie",
+      "lastName": "Vogelzang",
+      "geslacht": "V",
+      "leeftijd": 44,
+      "werkgevers": ["SZW", "Atos-Origin", "UPC", "Tata Steel"],
+      "artikel": { "naam": "pen", "prijs": 61.15 }
+    }
   ]
 }
