@@ -7,6 +7,14 @@
 - https://json-server-vercel-sage.vercel.app/url
 - https://json-server-vercel-sage.vercel.app/people
 
+# Wijziging db.json
+
+- https://json-server-vercel-sage.vercel.app/db.json
+- De gekopieerde inhoud van deze url eerst in db.json zetten
+- db.json uitbreiden/aanpassen
+- commit db.json
+- Vercel is read-only dus wijzigingen worden op de server niet in db.json weggeschreven. Bij herstart van server wordt de inhoud van deze db.json als uitgangspunt genomen (en raak je de wijzigingen die niet zijn weggeschreven kwijt).
+
 ## Deploy JSON Server to Vercel
 
 A template to deploy [JSON Server](https://github.com/typicode/json-server) to [Vercel](https://vercel.com), allow you to run fake REST API online!
