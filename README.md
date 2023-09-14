@@ -1,5 +1,10 @@
 # JSON Server Vercel
 
+- https://json-server-vercel-sage.vercel.app/articles
+- https://json-server-vercel-sage.vercel.app/events
+- https://json-server-vercel-sage.vercel.app/taken
+- https://json-server-vercel-sage.vercel.app/todos
+
 - https://json-server-vercel-sage.vercel.app/posts
 - https://json-server-vercel-sage.vercel.app/comments
 - https://json-server-vercel-sage.vercel.app/profile

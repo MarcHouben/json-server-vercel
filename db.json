@@ -1,4 +1,84 @@
 {
+  "articles": [
+    {
+      "id": "a1",
+      "title": "Learn React - From The Ground Up",
+      "description": "Learn all the key fundamentals and basics you need to know about React!"
+    },
+    {
+      "id": "a2",
+      "title": "JavaScript Foundation",
+      "description": "No React without JavaScript! This article discusses core fundamentals you must know."
+    },
+    {
+      "id": "a3",
+      "title": "Is that all?",
+      "description": "The 10 best next steps after mastering React fundamentals."
+    },
+    {
+      "id": "a4",
+      "title": "Beyond React",
+      "description": "The modern web uses React - everywhere! Really everywhere? Time to dive deeper!"
+    }
+  ],
+  "events": [
+    {
+      "id": "e1",
+      "title": "Lake Festival",
+      "description": "Join us for four days of fun and relaxed people.",
+      "image": "lakeImage",
+      "price": 99
+    },
+    {
+      "id": "e2",
+      "title": "Guided Hiking",
+      "description": "Explore nature on one of the most beautiful hiking tracks.",
+      "image": "hikeImage",
+      "price": 119
+    },
+    {
+      "id": "e3",
+      "title": "Food & Nature",
+      "description": "Enjoy the best of alpine cuisine.",
+      "image": "foodImage",
+      "price": 219
+    }
+  ],
+  "taken": [
+    {
+      "id": 1,
+      "title": "Afwassen",
+      "startdate": "2023-09-11",
+      "enddate": "2023-09-12",
+      "user": "houbenm",
+      "status": "In progress",
+      "kosten": 100000
+    },
+    {
+      "id": 2,
+      "title": "Auto APK",
+      "startdate": "2023-10-28",
+      "enddate": "2023-10-29",
+      "user": "truus",
+      "status": "On-hold",
+      "kosten": 500
+    },
+    {
+      "id": 3,
+      "title": "Tandarts",
+      "startdate": "2024-02-17",
+      "enddate": "2024-02-18",
+      "user": "johnnywalker",
+      "status": "Ready",
+      "kosten": 250
+    }
+  ],
+  "todos": [
+    { "id": "t1", "text": "React - The Complete Guide [Course]" },
+    { "id": "t2", "text": "Stylish Chair" },
+    { "id": "t3", "text": "Ergonomic Chair" },
+    { "id": "t4", "text": "History Video Game Collection" }
+  ],
   "posts": [{ "id": 1, "title": "json-server", "author": "typicode" }],
   "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
   "profile": { "name": "typicode" },
